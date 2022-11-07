@@ -1,0 +1,66 @@
+Body {  
+    font-family: Calibri, Helvetica, sans-serif;  
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpsCymbT1gOyfEa4YacYSKF2kAd3CafFUG5NcE-h3xyY_nJtcbuqLNVoCG09IHbAE6UQA&usqp=CAU');  
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+  } 
+button 
+    {  
+      background-color: #04d315bb;  
+      width: 15%;  
+      color: rgb(15, 12, 5);  
+      padding: 15px;  
+      margin: 10px 0px;  
+      border: none;  
+      cursor: pointer;  
+    }  
+   
+ input[type=text], input[type=password]
+    {  
+        width: 30%;  
+        margin: 7px 0;  
+        padding: 6px 20px;  
+        display: inline-block;  
+        border: 2px solid rgb(0, 0, 0); 
+    }
+
+    .imgcontainer {
+        text-align: center;
+        margin: 10px 0 12px 0;    
+    }
+    img.avatar {
+  width: 15%;
+  border-radius: 15%;
+}
+    .lgnbtn 
+    {
+        width: auto;  
+        padding: 10px 18px;  
+        margin: 10px 5px; 
+    }
+ 
+  .cancelbtn 
+  {  
+        width: auto;  
+        padding: 10px 18px;  
+        margin: 10px 5px;  
+  }
+  .center 
+  {
+  margin: auto;
+  width: 50%;
+  border: 3px solid hsl(185, 55%, 96%);
+  padding: 10px;
+  }  
+     
+ .container 
+  {  
+  padding: 25px;  
+  background-color: oceanblue;
+  font-family: arial;
+  font-size: 15px;
+  width: 350px;
+  height: 200px;
+  }        
+ 

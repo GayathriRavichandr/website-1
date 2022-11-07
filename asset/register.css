@@ -1,0 +1,41 @@
+Body {  
+    font-family: Calibri, Helvetica, sans-serif;  
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRboKha-9kjzic6Q7MD9lJI-gsE4mTuaeNzeQmq-RfI0KgjvQcIbcMXY7f0OLe7d9gUsP0&usqp=CAU'); 
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center; 
+  } 
+
+label
+{
+width: 100px;
+display: inline-block;
+} 
+  .container 
+{
+  padding: 25px;  
+  background-color: oceanblue;
+  font-family: arial;
+  font-size: 15px;
+  width: 350px;
+  height: 200px;
+  
+}
+input[type=text], input[type=password], input[type=email]
+  {  
+      width: 30%;  
+      margin: 7px 0;  
+      padding: 6px 20px;  
+      display: inline-block;  
+      border: 2px solid rgb(1, 5, 1);
+  }
+
+.subbtn {
+  background-color: #24b400;
+  color: white;
+  padding: 16px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 200px;
+}
